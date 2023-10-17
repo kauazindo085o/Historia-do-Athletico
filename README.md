@@ -40,3 +40,23 @@
 
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="idolos.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Idolos</title>
+</head>
+<body>
+    <header>
+        <a href="index.html">Home</a>
+        <a href="Idolos.html">idolos Athletico PR</a>
+        <a href="https://www.youtube.com/watch?v=Pgv3LzQQEV8">Video idolos</a>
+    </header>
+    <h1>Idolos Athletico PR</h1>
+
+    <p></p>
+    
+</body>
+</html>
