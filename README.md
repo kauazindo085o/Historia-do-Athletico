@@ -28,7 +28,7 @@
 <h3>Titulos</h3>
 
 <ul>Taça Campeonato Brasileiro 1 titulo 2001</ul>
-<img src="2001.webp" width="200">
+<img src="campeao.webp" width="200">
 
 <ul>Taça Campeonato Brasileiro-Série B 1 titulo 1995</ul>
 <ul>Taça Supercampeonato Paranaense 1 titulo 2002</ul>
