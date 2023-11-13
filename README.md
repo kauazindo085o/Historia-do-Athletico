@@ -23,7 +23,7 @@
 <h2>Estádio</h2>
 
 <p>O Estádio Joaquim Américo Guimarães, nome oficial da Arena da Baixada, surgiu em 6 de setembro de 1914. Era sede do International até 1924, quando ele se fundiu ao América e formou o Atlético-PR. Foi totalmente demolido em 1997 para dar espaço ao projeto atual, inaugurado em 20 de junho de 1999. A estreia do novo estádio atleticano foi na vitória do time da casa contra o Cerro Porteño, do Paraguai, por 2 a 1. Como será uma das sedes da Copa do Mundo de 2014, a Arena da Baixada tem projeto de expansão, que deve aumentar a capacidade do local para cerca de 41 mil lugare</p>
-<img src="estadiojoa.jpg" width="400"> 
+<img src="iluminacao.jpg" width="400"> 
 
 <h3>Titulos</h3>
 
